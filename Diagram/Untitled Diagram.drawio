@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T04:54:55.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="1kMB_nfm3TP1fxwA7kNH" version="24.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-17T04:59:41.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="gsLHBlck9I0xMqpBUFAN" version="24.4.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="918" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,19 +27,19 @@
         <mxCell id="-V9SVFJw8tuHf5zpe-CK-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="521" y="355" width="130" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="-V9SVFJw8tuHf5zpe-CK-10" value="Thêm, xóa, sửa&lt;div&gt;tài khoản&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-V9SVFJw8tuHf5zpe-CK-10" value="Quản lý tài khoản" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="526" y="362.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-V9SVFJw8tuHf5zpe-CK-11" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="521" y="440" width="130" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="-V9SVFJw8tuHf5zpe-CK-12" value="Thêm, xóa, sửa&lt;div&gt;hàng hóa&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-V9SVFJw8tuHf5zpe-CK-12" value="Quản lý hàng hóa" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="526" y="447.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-V9SVFJw8tuHf5zpe-CK-13" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="521" y="520" width="130" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="-V9SVFJw8tuHf5zpe-CK-14" value="Thêm, xóa, sửa&lt;div&gt;hàng trong kho&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-V9SVFJw8tuHf5zpe-CK-14" value="Quản lý hàng&lt;div&gt;trong kho&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="526" y="527.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-V9SVFJw8tuHf5zpe-CK-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
