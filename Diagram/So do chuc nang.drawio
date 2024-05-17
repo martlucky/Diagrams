@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T15:29:51.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="qtVbfjbhA36KoPb_KqJu" version="24.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-17T17:31:15.837Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="7_1OKfCQgQj_-depA5Ga" version="24.4.4" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="983" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-1" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#66B2FF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-1" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#66B2FF;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="340" y="40" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-2" value="PHẦN MỀM QUẢN LÝ KHO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-2" value="PHẦN MỀM QUẢN LÝ KHO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="340" y="45" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rhHSIPl3d8ljg-EaNlec-4" target="rhHSIPl3d8ljg-EaNlec-1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="rhHSIPl3d8ljg-EaNlec-4" target="rhHSIPl3d8ljg-EaNlec-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="120" as="sourcePoint" />
             <mxPoint x="450" y="250" as="targetPoint" />
@@ -20,37 +20,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="140" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="300" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="460" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="620" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-9" value="Quản lý hàng hóa" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-9" value="Quản lý hàng hóa" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="145" y="125" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-11" value="Quản lý kho" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-11" value="Quản lý kho" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="305" y="125" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-12" value="Quản lý hệ thống" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-12" value="Quản lý hệ thống" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="625" y="125" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-13" value="Thống kê" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-13" value="Thống kê" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="465" y="125" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rhHSIPl3d8ljg-EaNlec-5">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="rhHSIPl3d8ljg-EaNlec-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="100" as="sourcePoint" />
             <mxPoint x="360" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="rhHSIPl3d8ljg-EaNlec-6">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="rhHSIPl3d8ljg-EaNlec-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="100" as="sourcePoint" />
             <mxPoint x="410" y="50" as="targetPoint" />
@@ -59,7 +59,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="rhHSIPl3d8ljg-EaNlec-7">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="rhHSIPl3d8ljg-EaNlec-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="100" as="sourcePoint" />
             <mxPoint x="680" y="100" as="targetPoint" />
@@ -68,13 +68,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="180" y="180" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-20" value="Quản lý&amp;nbsp;&lt;div&gt;loại hàng hóa&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-20" value="Quản lý&amp;nbsp;&lt;div&gt;loại hàng hóa&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="187.5" y="195" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.165;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rhHSIPl3d8ljg-EaNlec-4" target="rhHSIPl3d8ljg-EaNlec-19">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.165;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="rhHSIPl3d8ljg-EaNlec-4" target="rhHSIPl3d8ljg-EaNlec-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="240" as="sourcePoint" />
             <mxPoint x="160" y="260" as="targetPoint" />
@@ -83,31 +83,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-22" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-22" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="340" y="180" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-23" value="Quản lý&amp;nbsp;&lt;div&gt;lượng hàng nhập kho&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-23" value="Quản lý&amp;nbsp;&lt;div&gt;lượng hàng nhập kho&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="347.5" y="195" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="660" y="180" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-25" value="Quản lý tài khoản" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-25" value="Quản lý tài khoản" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="667.5" y="195" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-26" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-26" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="500" y="180" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-27" value="Số lượng hàng lưu&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;kho&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-27" value="Số lượng hàng lưu&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;kho&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="507.5" y="195" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-28" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-28" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="660" y="260" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-29" value="Sao lưu dữ liệu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-29" value="Sao lưu dữ liệu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="667.5" y="275" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.165;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.165;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="160" as="sourcePoint" />
             <mxPoint x="340" y="209" as="targetPoint" />
@@ -116,7 +116,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.165;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.165;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="160" as="sourcePoint" />
             <mxPoint x="500" y="209" as="targetPoint" />
@@ -125,7 +125,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.165;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.165;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="160" as="sourcePoint" />
             <mxPoint x="660" y="209" as="targetPoint" />
@@ -134,7 +134,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rhHSIPl3d8ljg-EaNlec-28">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="rhHSIPl3d8ljg-EaNlec-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="210" as="sourcePoint" />
             <mxPoint x="480" y="310" as="targetPoint" />
@@ -143,13 +143,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-34" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-34" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="500" y="260" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-35" value="Giá trị hàng hóa lưu kho" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-35" value="Giá trị hàng hóa lưu kho" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="507.5" y="275" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="210" as="sourcePoint" />
             <mxPoint x="500" y="290" as="targetPoint" />
@@ -158,13 +158,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-37" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-37" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="500" y="340" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-38" value="Lịch sử nhập hàng" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-38" value="Lịch sử nhập hàng" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="507.5" y="355" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="290" as="sourcePoint" />
             <mxPoint x="500" y="370" as="targetPoint" />
@@ -173,16 +173,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="20" width="660" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-42" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-42" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="500" y="420" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-43" value="Trang thiết bị trong kho" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-43" value="Trang thiết bị trong kho" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="507.5" y="435" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="370" as="sourcePoint" />
             <mxPoint x="500" y="450" as="targetPoint" />
@@ -191,13 +191,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-48" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-48" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="340" y="340" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-49" value="Quản lý thiết bị trong kho" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="347.5" y="355" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rhHSIPl3d8ljg-EaNlec-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="rhHSIPl3d8ljg-EaNlec-48" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="290" as="sourcePoint" />
+            <mxPoint x="160" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQ13l7rGSafvRPByfC8l-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="340" y="260" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-49" value="Quản lý thiết bị trong kho" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="MQ13l7rGSafvRPByfC8l-2" value="Quản lý vị trí đặt hàng" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="347.5" y="275" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rhHSIPl3d8ljg-EaNlec-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rhHSIPl3d8ljg-EaNlec-48">
+        <mxCell id="MQ13l7rGSafvRPByfC8l-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="MQ13l7rGSafvRPByfC8l-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="210" as="sourcePoint" />
             <mxPoint x="160" y="310" as="targetPoint" />
